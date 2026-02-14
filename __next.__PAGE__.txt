@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[34162,["/valday/_next/static/chunks/ff1a16fafef87110.js","/valday/_next/static/chunks/412e6dfbb53fad4e.js"],"FloatingHearts"]
-3:I[24003,["/valday/_next/static/chunks/ff1a16fafef87110.js","/valday/_next/static/chunks/412e6dfbb53fad4e.js"],"ValentineCard"]
+2:I[34162,["/valday/_next/static/chunks/ff1a16fafef87110.js","/valday/_next/static/chunks/6745022b43ee9b2b.js"],"FloatingHearts"]
+3:I[24003,["/valday/_next/static/chunks/ff1a16fafef87110.js","/valday/_next/static/chunks/6745022b43ee9b2b.js"],"ValentineCard"]
 4:I[97367,["/valday/_next/static/chunks/ff1a16fafef87110.js","/valday/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
 5:"$Sreact.suspense"
-0:{"buildId":"jskzUvN9JJ5bUcWfaU9-2","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"relative min-h-screen overflow-hidden bg-background","children":[["$","$L2",null,{}],["$","section",null,{"className":"relative z-10 px-4 py-6","aria-label":"Valentine's Day Card","children":["$","$L3",null,{}]}]]}],[["$","script","script-0",{"src":"/valday/_next/static/chunks/ff1a16fafef87110.js","async":true}],["$","script","script-1",{"src":"/valday/_next/static/chunks/412e6dfbb53fad4e.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"AKO28LG3IkvLuQ3gF83As","rsc":["$","$1","c",{"children":[["$","main",null,{"className":"relative min-h-screen overflow-hidden bg-background","children":[["$","$L2",null,{}],["$","section",null,{"className":"relative z-10 px-4 py-6","aria-label":"Valentine's Day Card","children":["$","$L3",null,{}]}]]}],[["$","script","script-0",{"src":"/valday/_next/static/chunks/ff1a16fafef87110.js","async":true}],["$","script","script-1",{"src":"/valday/_next/static/chunks/6745022b43ee9b2b.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
 6:null
